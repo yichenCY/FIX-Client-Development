@@ -14,3 +14,8 @@ FIX version: 4.2
       - Order Cancel Reject (35=9)
    4) Send 1000 random orders for MSFT, AAPL, and BAC. One side can be BUY, SELL, or SHORT. It could be a limit or a market order. Send 1000 orders within a 5 minutes period from when the application starts. And, need to randomly cancel them within 5 minutes from when you send the order.
   
+2. Analysis of the log file on:
+   1) Total trading volume, in USD
+   2) PNL generated from this trading
+   3) VWAP of the fills for each instruments
+  
