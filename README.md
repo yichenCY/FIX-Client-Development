@@ -18,4 +18,6 @@ FIX version: 4.2
    1) Total trading volume, in USD
    2) PNL generated from this trading
    3) VWAP of the fills for each instrument
+
+Note: Use Mini-FIX (https://elato.se/minifix/) for correctness comparison during the code development. 
   
