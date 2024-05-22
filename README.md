@@ -1,6 +1,6 @@
 Project: Develop a FIX client (https://en.wikipedia.org/wiki/Financial_Information_eXchange) that can send random orders to a FIX server and calculate certain statistics related to the order flow.
 
-FIX version: 4.2
+FIX protocol version(Network and Communication Protocol): 4.2
 
 1. Generate Order and save the log file: FIX_LOG_GENERATION.ipynb
    1) Handle basic FIX flows: Logon, Seq Number handling
